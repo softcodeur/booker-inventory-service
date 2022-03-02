@@ -20,7 +20,7 @@ public class InventoryDetails {
 	@Id @GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 	private Long productRef;
-	private int availableQuantity;
+	private int availableQuantity; 
 	private int anticipateQuantity;
 	
 }

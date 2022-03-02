@@ -6,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Example;
 import org.springframework.stereotype.Service;
 
-import com.fst.commandeapiv4.domain.rest.proxy.ProduitProxy;
 import com.fstg.bookerinventoryservice.bean.Inventory;
 import com.fstg.bookerinventoryservice.bean.InventoryDetails;
 import com.fstg.bookerinventoryservice.bean.InventoryStatus;
